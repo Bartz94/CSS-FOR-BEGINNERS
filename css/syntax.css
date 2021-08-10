@@ -1,9 +1,34 @@
-.static-width{
-    width: 600px;
-    height: 600px;
-    background: url(http://placekitten.com/g/200/300) no-repeat top center;
-    background-color: #126060;
-
+#circle{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background-color: rgb(200,200,100);
+    border-radius: 200px;
+    top: 50px;
+    left: 50px;
+    opacity: 1;
+    text-align: center;
 }
 
+#circle-2{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background-color: rgb(168, 100, 200);
+    border-radius: 200px;
+    top: 250px;
+    left: 150px;
+    opacity: 0.3;
+    text-align: center;
+}
 
+#circle-3{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background-color: rgba(168, 32, 32, 0.1);
+    border-radius: 200px;
+    top: 50px;
+    left: 250px;
+    text-align: center;
+}
