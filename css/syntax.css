@@ -1,11 +1,9 @@
 .static-width{
-    width: 5000px;
-    height: 6000px;
-    background-color: #606060;
-    background-image: url(http://placekitten.com/200/300);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 3000px;
+    width: 600px;
+    height: 600px;
+    background: url(http://placekitten.com/g/200/300) no-repeat top center;
+    background-color: #126060;
+
 }
 
 
